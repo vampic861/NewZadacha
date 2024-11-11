@@ -1,6 +1,5 @@
-a = 12
-b = 1.5
-c = 'python'
-d = float(a)
-hours2 = b / d
-print('Курс:', c ,'всего задач:', a ,'затрачено часов:', b ,'среднее время выполнения', hours2 ,'часа.')
+Homework = 12
+time = 1.5
+Well = 'Python'
+hours2 = time / Homework
+print('Курс:', Well + ',' ,'всего задач:', str(Homework) + ',', 'затрачено часов:', str(time) + ',' ,'среднее время выполнения', str(hours2) ,'часа.')
